@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Houser</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="greeting">Well what do we have here</string>
+
+
+    <!--Settings items-->
+
+    <string name="action_settings">Settings</string>
+    <!--End Settings-->
+
+
+    <!--Navigation-->
+
+    <string name="search">Find Houses</string>
+    <string name="favorites">Favorites</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Me</string>
+    <!--End Navigation-->
+
+
+    <!-- Fragments-->
+    <!--Dashboard-->
+
+    <string name="dashboard_hello">Dashboard fragment</string>
+    <!--End Dashboard fragment-->
+
+    <!--Search-->
+
+    <string name="search_hello">Search fragment content</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--End search-->
+</resources>
