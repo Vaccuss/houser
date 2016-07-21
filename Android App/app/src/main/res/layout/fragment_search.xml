@@ -4,10 +4,12 @@
     android:layout_height="match_parent"
     tools:context=".fragments.SearchFragment">
 
-    <TextView
+    <ListView
+        android:id="@+id/search_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/search_hello" />
+        android:scrollbars="vertical" />
+
 
 
 
