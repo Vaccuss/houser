@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="50250bfc345a88688a72686e8dbb8eb23636b4cb">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65473d92d0428681f9bb5098418aba55a41f502f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_3f6dbda6d9d955d182420466a54bd1d56e307d88\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_b9f18c3d203c702b5c4dc7cd0b78b90b2df601f2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_a5eb8cfcf87e1f8e06f088b8cfa51214c1780efb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_4a6bcbf131be767fce07d6874240715c2ce5f37a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2182c6d8cbf0271804ee2a22379982ce512b86e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_3b7e6dbe99d4f2da04abe4277b5ae0ede2d05dd9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_9be238ddac6b397878ae6ebe6a17106157cad189\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_927caf8f83fb275dcea5a3deaf35b306a3aeb0ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_710572799d40dfdff5dddc3249724f199b2e1e5b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_4946b426ba6108b24ebd349fd62c827fa7b368a0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="871d5c7f9f4a2667f71fb9aa00597dfae0d4e1cc">
+        <dex dex="D:\Google Drive\Android Projects\Houser\Housr\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_36a8ae7b8882026caca44fd50d64eb63c6ef498f\classes.dex" />
+    </item>
+
+</items>
