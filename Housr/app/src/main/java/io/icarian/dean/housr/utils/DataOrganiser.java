@@ -1,6 +1,8 @@
 package io.icarian.dean.housr.utils;
 
-import android.content.Context;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -12,7 +14,7 @@ import java.util.ArrayList;
 public class DataOrganiser {
     private static DataOrganiser mInstance;
 
-    ArrayList<HouseModel> allHouses;
+    public ArrayList<HouseModel> allHouses;
 
 
     protected DataOrganiser() {
@@ -27,11 +29,17 @@ public class DataOrganiser {
     }
 
 
-
-
-
-
-
+    /**
+     * @param jsonArray
+     * @throws JSONException
+     */
+    private void buildHouseArray(JSONArray jsonArray) throws JSONException {
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject jsonObject = jsonArray.getJSONObject(i);
+            HouseModel model = new HouseModel(jsonObject);
+            allHouses.add(model);
+        }
+    }
 
 
 }

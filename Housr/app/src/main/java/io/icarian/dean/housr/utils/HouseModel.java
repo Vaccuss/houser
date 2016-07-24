@@ -1,5 +1,9 @@
 package io.icarian.dean.housr.utils;
 
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.ArrayList;
 
 /**
@@ -7,37 +11,28 @@ import java.util.ArrayList;
  * This Class is the data model for a single house
  */
 public class HouseModel {
-    private String address; // required on create
-    private String description;
-    private String thumbnailUrl;
+    public String address;
+    public String description;
+    public String thumbnailUrl;
 
-    private int bedrooms;
-    private int bathrooms;
-    private int carParks;
+    public int bedrooms;
+    public int bathrooms;
+    public int carParks;
 
 
     private ArrayList<String> ImageURLList;
 
     /**
-     *
-     * @param Address [String Required]
-     * @param thumbNail [String Required]
-     * @param Description [String Required]
-     * @param Bedrooms [Integer Required]
-     * @param Bathrooms [Integer Required]
-     * @param Carparks [Integer Required]
+     * @param jsonObj Keys: address, thumbnails, description, amtbeds, amtbaths, amtcars
+     * @throws JSONException
      */
-    public HouseModel(String Address, String thumbNail, String Description, int Bedrooms, int
-            Bathrooms, int Carparks){
-
-        address = Address;
-        description = Description;
-        thumbnailUrl = thumbNail;
-
-        bedrooms = Bedrooms;
-        bathrooms = Bathrooms;
-        carParks = Carparks;
-
+    public HouseModel(JSONObject jsonObj) throws JSONException {
+        this.address = jsonObj.getString("address");
+        description = jsonObj.getString("thumbnails");
+        thumbnailUrl = jsonObj.getString("description");
+        bedrooms = jsonObj.getInt("amtbeds");
+        bathrooms = jsonObj.getInt("amtbaths");
+        carParks = jsonObj.getInt("amtcars");
     }
 
 //    public void attachExpandedData( ){
