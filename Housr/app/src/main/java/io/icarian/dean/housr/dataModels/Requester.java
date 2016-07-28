@@ -1,7 +1,7 @@
 /**
  * Created by Dean on 19-Jul-16.
  */
-package io.icarian.dean.housr.utils;
+package io.icarian.dean.housr.dataModels;
 
 import android.content.Context;
 import android.graphics.Bitmap;

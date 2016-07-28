@@ -1,21 +1,20 @@
-package io.icarian.dean.housr.utils;
+package io.icarian.dean.housr.dataModels;
 
 import android.content.Context;
-import android.view.LayoutInflater;
+
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 
 import org.json.JSONArray;
-import org.json.JSONObject;
+
 
 
 import java.util.ArrayList;
 
-import io.icarian.dean.housr.R;
-
 /**
  * Created by Dean on 23-Jul-16.
+ *
  */
 public class searchAdapter extends ArrayAdapter<JSONArray> {
 
